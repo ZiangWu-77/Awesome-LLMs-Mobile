@@ -1,2 +1,3 @@
 # Awesome-LLMs-Mobile
-A repo that 
+This a repo that covers the deployment of large language models/multi-modal large language model.
+
