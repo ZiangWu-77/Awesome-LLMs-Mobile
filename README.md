@@ -1,6 +1,6 @@
 # :fire: :fire:Awesome-LLMs-Mobile:fire::fire:
 
-## :loudspeaker::loudspeaker::loudspeaker:This a repo that covers the **on-device/edge/mobile** deployment of
+## :loudspeaker::loudspeaker::loudspeaker:This is a repo that covers the **on-device/edge/mobile** deployment of
 
 -  **large language models**
 - **multi-modal large language model**.
