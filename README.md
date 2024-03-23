@@ -40,6 +40,8 @@
 
 ### LLM
 
+- llama.cpp [[code](https://github.com/ggerganov/llama.cpp)]
+- alpaca.cpp [[code](https://github.com/antimatter15/alpaca.cpp/)]
 - Phi2-mini-Chinese [[code](https://github.com/charent/Phi2-mini-Chinese)]
 - Baby-llama2-Chinese [[code](https://github.com/DLLXW/baby-llama2-chinese)]
 - MINI-LLM [[code](https://github.com/jiahe7ay/MINI_LLM)]
@@ -65,3 +67,6 @@
 ### App
 - lm-studio [[App](https://lmstudio.ai/)]
 - mlc-llm.ai [[App](https://llm.mlc.ai/)]
+### UI
+- electron[[code](https://www.electronjs.org/)]
+- 
