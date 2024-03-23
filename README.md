@@ -44,6 +44,8 @@
 - Baby-llama2-Chinese [[code](https://github.com/DLLXW/baby-llama2-chinese)]
 - MINI-LLM [[code](https://github.com/jiahe7ay/MINI_LLM)]
 - ChatLM-mini-Chinese [[code](https://github.com/charent/ChatLM-mini-Chinese)]
+- alpaca-electron [[code](https://github.com/ZiangWu-77/alpaca-electron)]
+- FreedomGPT [[code](https://github.com/ohmplatform/FreedomGPT)]
 - AutoDroid [[code](https://github.com/MobileLLM/AutoDroid)]
 
 ### MLLM
