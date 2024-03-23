@@ -42,6 +42,7 @@
 
 - Phi2-mini-Chinese [[code](https://github.com/charent/Phi2-mini-Chinese)]
 - Baby-llama2-Chinese [[code](https://github.com/DLLXW/baby-llama2-chinese)]
+- MINI-LLM [[code](https://github.com/jiahe7ay/MINI_LLM)]
 - AutoDroid [[code](https://github.com/MobileLLM/AutoDroid)]
 
 ### MLLM
