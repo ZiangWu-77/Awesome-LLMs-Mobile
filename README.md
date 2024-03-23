@@ -58,4 +58,8 @@
 - llama.cpp [[code](https://github.com/ggerganov/llama.cpp)]
 - OpenVINO [[code](https://github.com/openvinotoolkit/openvino)]
 - mlc-llm [[code](https://github.com/mlc-ai/mlc-llm)]
+- BigDL [[code](https://github.com/ZiangWu-77/BigDL)]
+
+### App
 - lm-studio [[App](https://lmstudio.ai/)]
+- mlc-llm.ai [[App](https://llm.mlc.ai/)]
