@@ -67,6 +67,10 @@
 ### App
 - lm-studio [[App](https://lmstudio.ai/)]
 - mlc-llm.ai [[App](https://llm.mlc.ai/)]
-### UI
-- electron[[code](https://www.electronjs.org/)]
-- 
+
+### Web UI 
+- gradio [[web](https://www.gradio.app/)]
+
+### Desktop UI Framework
+- electron [[web](https://www.electronjs.org/)]
+- node.js [[web](https://nodejs.org/en)]
