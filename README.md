@@ -46,6 +46,8 @@
 - ChatLM-mini-Chinese [[code](https://github.com/charent/ChatLM-mini-Chinese)]
 - alpaca-electron [[code](https://github.com/ZiangWu-77/alpaca-electron)]
 - FreedomGPT [[code](https://github.com/ohmplatform/FreedomGPT)]
+- Lumos [[code](https://github.com/andrewnguonly/Lumos)]
+- code-llama-for-vscode[[code](https://github.com/xNul/code-llama-for-vscode?tab=readme-ov-file)]
 - AutoDroid [[code](https://github.com/MobileLLM/AutoDroid)]
 
 ### MLLM
