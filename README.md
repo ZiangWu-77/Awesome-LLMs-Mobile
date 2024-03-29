@@ -1,12 +1,10 @@
 # :fire: :fire:Awesome-LLMs-Mobile:fire::fire:
-
 ## :loudspeaker::loudspeaker::loudspeaker:This is a repo that covers the **on-device/edge/mobile** deployment of 2 types of llm
 
 -  **large language models**
 - **multi-modal large language model**.
 
 ## Related Work (papers)📖
-
 ### Survey
 
 - Efficient large language models: A survey [[paper](https://arxiv.org/abs/2312.03863)] [[repo](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)]
@@ -37,7 +35,6 @@
 - MobileVLM V2: Faster and Stronger Baseline for Vision Language Model (Arxiv 2024) [[paper](https://arxiv.org/pdf/2402.03766)] [[code](https://github.com/Meituan-AutoML/MobileVLM)]
 
 ## Related Work (project/code) :office:
-
 ### LLM
 **Open**
 - llama.cpp [[code](https://github.com/ggerganov/llama.cpp)]
@@ -55,15 +52,13 @@
 - Lumos [[code](https://github.com/andrewnguonly/Lumos)]
 - code-llama-for-vscode[[code](https://github.com/xNul/code-llama-for-vscode?tab=readme-ov-file)]
 - AutoDroid [[code](https://github.com/MobileLLM/AutoDroid)]
-**closed**
-- https://chat.deepseek.com/sign_in?from=coder
+
 ### MLLM
 
 - MiniCPM-2B [[code](https://github.com/OpenBMB/MiniCPM)]
 - MobileVLM [[code](https://github.com/Meituan-AutoML/MobileVLM)]
 
 ### INFERENCE-TOOLKIT
-
 - llama.cpp [[code](https://github.com/ggerganov/llama.cpp)]
 - OpenVINO [[code](https://github.com/openvinotoolkit/openvino)]
 - mlc-llm [[code](https://github.com/mlc-ai/mlc-llm)]
