@@ -39,11 +39,15 @@
 ## Related Work (project/code) :office:
 
 ### LLM
-
+**Open**
 - llama.cpp [[code](https://github.com/ggerganov/llama.cpp)]
 - alpaca.cpp [[code](https://github.com/antimatter15/alpaca.cpp/)]
+- Qwen-1.8B [[code](https://github.com/QwenLM/Qwen)]
+- deepseek [[code](https://github.com/deepseek-ai/DeepSeek-Coder)]]
 - Phi2-mini-Chinese [[code](https://github.com/charent/Phi2-mini-Chinese)]
+- Yuan [[code](https://github.com/IEIT-Yuan/Yuan-2.0)]
 - Baby-llama2-Chinese [[code](https://github.com/DLLXW/baby-llama2-chinese)]
+- TinyLlama-1.1B [[code](https://github.com/jzhang38/TinyLlama)]
 - MINI-LLM [[code](https://github.com/jiahe7ay/MINI_LLM)]
 - ChatLM-mini-Chinese [[code](https://github.com/charent/ChatLM-mini-Chinese)]
 - alpaca-electron [[code](https://github.com/ZiangWu-77/alpaca-electron)]
@@ -51,7 +55,8 @@
 - Lumos [[code](https://github.com/andrewnguonly/Lumos)]
 - code-llama-for-vscode[[code](https://github.com/xNul/code-llama-for-vscode?tab=readme-ov-file)]
 - AutoDroid [[code](https://github.com/MobileLLM/AutoDroid)]
-
+**closed**
+- https://chat.deepseek.com/sign_in?from=coder
 ### MLLM
 
 - MiniCPM-2B [[code](https://github.com/OpenBMB/MiniCPM)]
